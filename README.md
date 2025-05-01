@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WolfgangS06
-- 👀 I’m interested in machine learning and assistive tools!
-- 🌱 I’m currently learning  a more in-depth understanding of AI
-- 💞️ I’m looking to collaborate on Minecraft AI bridge using tensor flow, and nodejs
+- 👀 I’m a Finance Student
+- 🌱 I’m currently learning how to create a reliable stock history api for free
 - 📫 How to reach me create a issue and I'll check it out
 
 <!---
